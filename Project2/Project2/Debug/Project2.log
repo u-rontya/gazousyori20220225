@@ -1,0 +1,12 @@
+﻿  Source.cpp
+C:\Users\user\Desktop\Project2\Project2\Source.cpp(45): warning C4326: 'main' の戻り値の型には、'int' を使用してください。'void' は使用できません
+C:\Users\user\Desktop\Project2\Project2\Source.cpp(179): warning C4474: 'printf': 書式文字列に渡された引数の数が多すぎます
+  C:\Users\user\Desktop\Project2\Project2\Source.cpp(179): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+C:\Users\user\Desktop\Project2\Project2\Source.cpp(227): warning C4474: 'printf': 書式文字列に渡された引数の数が多すぎます
+  C:\Users\user\Desktop\Project2\Project2\Source.cpp(227): note: プレースホルダーとそのパラメーターには 0 の可変個引数が必要ですが、1 が指定されています。
+C:\Users\user\Desktop\Project2\Project2\Source.cpp(246): warning C4101: 'tem': ローカル変数は 1 度も使われていません。
+C:\Users\user\Desktop\Project2\Project2\Source.cpp(289): warning C4101: 'tem': ローカル変数は 1 度も使われていません。
+C:\Users\user\Desktop\Project2\Project2\Source.cpp(304): warning C4101: 'tem': ローカル変数は 1 度も使われていません。
+C:\Users\user\Desktop\Project2\Project2\Source.cpp(319): warning C4101: 'tem': ローカル変数は 1 度も使われていません。
+C:\Users\user\Desktop\Project2\Project2\Source.cpp(334): warning C4101: 'tem': ローカル変数は 1 度も使われていません。
+  Project2.vcxproj -> C:\Users\user\Desktop\Project2\Debug\Project2.exe
